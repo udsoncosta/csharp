@@ -1,0 +1,14 @@
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\Aula02\operadores\obj\Debug\net7.0\operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\Aula02\operadores\obj\Debug\net7.0\operadores.AssemblyInfoInputs.cache
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\Aula02\operadores\obj\Debug\net7.0\operadores.AssemblyInfo.cs
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\Aula02\operadores\obj\Debug\net7.0\operadores.csproj.CoreCompileInputs.cache
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\Aula02\operadores\bin\Debug\net7.0\operadores.exe
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\Aula02\operadores\bin\Debug\net7.0\operadores.deps.json
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\Aula02\operadores\bin\Debug\net7.0\operadores.runtimeconfig.json
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\Aula02\operadores\bin\Debug\net7.0\operadores.dll
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\Aula02\operadores\bin\Debug\net7.0\operadores.pdb
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\Aula02\operadores\obj\Debug\net7.0\operadores.dll
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\Aula02\operadores\obj\Debug\net7.0\refint\operadores.dll
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\Aula02\operadores\obj\Debug\net7.0\operadores.pdb
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\Aula02\operadores\obj\Debug\net7.0\operadores.genruntimeconfig.cache
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\Aula02\operadores\obj\Debug\net7.0\ref\operadores.dll

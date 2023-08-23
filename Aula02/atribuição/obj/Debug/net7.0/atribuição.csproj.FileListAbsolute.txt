@@ -1,0 +1,14 @@
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\Aula02\atribuição\obj\Debug\net7.0\atribuição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\Aula02\atribuição\obj\Debug\net7.0\atribuição.AssemblyInfoInputs.cache
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\Aula02\atribuição\obj\Debug\net7.0\atribuição.AssemblyInfo.cs
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\Aula02\atribuição\obj\Debug\net7.0\atribuição.csproj.CoreCompileInputs.cache
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\Aula02\atribuição\bin\Debug\net7.0\atribuição.exe
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\Aula02\atribuição\bin\Debug\net7.0\atribuição.deps.json
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\Aula02\atribuição\bin\Debug\net7.0\atribuição.runtimeconfig.json
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\Aula02\atribuição\bin\Debug\net7.0\atribuição.dll
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\Aula02\atribuição\bin\Debug\net7.0\atribuição.pdb
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\Aula02\atribuição\obj\Debug\net7.0\atribuição.dll
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\Aula02\atribuição\obj\Debug\net7.0\refint\atribuição.dll
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\Aula02\atribuição\obj\Debug\net7.0\atribuição.pdb
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\Aula02\atribuição\obj\Debug\net7.0\atribuição.genruntimeconfig.cache
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\Aula02\atribuição\obj\Debug\net7.0\ref\atribuição.dll
