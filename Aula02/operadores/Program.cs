@@ -16,21 +16,18 @@
             int m = 5;
 
             Console.WriteLine("\nTransformar em Número negativo: " + (-m));
-
             Console.WriteLine("\nPré Incrementar: x = ++ y");
 
             x = ++y;
 
             Console.WriteLine("\nValor de X: " + x);
             Console.WriteLine("\nValor de Y: " + y);
-
             Console.WriteLine("\nPré Decrementar: z = -- w");
 
             z = --w;
 
             Console.WriteLine("\nValor de Z: " + z);
             Console.WriteLine("\nValor de W: " + w);
-
             Console.WriteLine("\nPós Incrementar: i = j ++");
 
             i = j++;

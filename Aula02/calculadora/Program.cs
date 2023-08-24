@@ -4,15 +4,23 @@
     {
         static void Main(string[] args)
         {
-            float n1, n2, n3, n4, mediaFinal
+            float numero1, numero2, divisao;
 
-            Console.WriteLine("Digite a primeira nota:");
-            n1 = int(Console.ReadLine);
+            Console.WriteLine("Digite o primeiro número: ");
+            numero1 = Convert.ToSingle(Console.ReadLine());
 
-            Console.WriteLine("Digite o segundaa nota:");
-            n2 = int(Console.ReadLine);
+            Console.WriteLine("Digite o segundo número: ");
+            numero2 = Convert.ToSingle(Console.ReadLine());
 
-            
+
+            divisao = numero1 / numero2;
+            Console.WriteLine($"{numero1} + {numero2} = " + (numero1 + numero2));
+            Console.WriteLine($"{numero1} - {numero2} = " + (numero1 - numero2));
+            Console.WriteLine($"{numero1} * {numero2} = " + (numero1 * numero2));
+            Console.WriteLine($"{numero1} / {numero2} = " + Math.Round(divisao, 2));
+            Console.WriteLine($"{numero1} ^ {numero2} = " + Math.Pow(numero1, numero2));
+            Console.WriteLine($"Raiz quadrada de {numero1} = " + Math.Sqrt(numero1));
+
 
         }
     }

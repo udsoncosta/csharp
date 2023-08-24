@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\udson\\OneDrive\\Área de Trabalho\\csharp\\Aula02\\Calculadora\\calculadora.csproj": {}
+    "C:\\Users\\udson\\OneDrive\\Área de Trabalho\\csharp\\Aula02\\CALCULADORA\\CALCULADORA.csproj": {}
   },
   "projects": {
-    "C:\\Users\\udson\\OneDrive\\Área de Trabalho\\csharp\\Aula02\\Calculadora\\calculadora.csproj": {
+    "C:\\Users\\udson\\OneDrive\\Área de Trabalho\\csharp\\Aula02\\CALCULADORA\\CALCULADORA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\udson\\OneDrive\\Área de Trabalho\\csharp\\Aula02\\Calculadora\\calculadora.csproj",
-        "projectName": "calculadora",
-        "projectPath": "C:\\Users\\udson\\OneDrive\\Área de Trabalho\\csharp\\Aula02\\Calculadora\\calculadora.csproj",
+        "projectUniqueName": "C:\\Users\\udson\\OneDrive\\Área de Trabalho\\csharp\\Aula02\\CALCULADORA\\CALCULADORA.csproj",
+        "projectName": "CALCULADORA",
+        "projectPath": "C:\\Users\\udson\\OneDrive\\Área de Trabalho\\csharp\\Aula02\\CALCULADORA\\CALCULADORA.csproj",
         "packagesPath": "C:\\Users\\udson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\udson\\OneDrive\\Área de Trabalho\\csharp\\Aula02\\calculadora\\obj\\",
+        "outputPath": "C:\\Users\\udson\\OneDrive\\Área de Trabalho\\csharp\\Aula02\\CALCULADORA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\udson\\AppData\\Roaming\\NuGet\\NuGet.Config",

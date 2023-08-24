@@ -5,20 +5,23 @@
         static void Main(string[] args)
         {
 
-            float n1, n2, n3, n4, mediaFinal;
+            float nota1, nota2, nota3, nota4, media;
 
-            Console.WriteLine("Digite a primeira nota: ");
-            n1 = Convert.ToSingle(Console.ReadLine());
-            Console.WriteLine("Digite a segunda nota: ");
-            n2 = Convert.ToSingle(Console.ReadLine());
-            Console.WriteLine("Digite a terceira nota: ");
-            n3 = Convert.ToSingle(Console.ReadLine());
-            Console.WriteLine("Digite a quarta nota: ");
-            n4 = Convert.ToSingle(Console.ReadLine());
+            Console.WriteLine("Entre com a primeira nota: ");
+            nota1 = Convert.ToSingle(Console.ReadLine());
 
-            mediaFinal = (n1 + n2 + n3 + n4) / 4;
+            Console.WriteLine("Entre com a segunda nota: ");
+            nota2 = Convert.ToSingle(Console.ReadLine());
 
-            Console.WriteLine("A média final é:" + mediaFinal);
+            Console.WriteLine("Entre com a terceira nota: ");
+            nota3 = Convert.ToSingle(Console.ReadLine());
+
+            Console.WriteLine("Entre com a quarta nota: ");
+            nota4 = Convert.ToSingle(Console.ReadLine());
+
+            media = (nota1 + nota2 + nota3 + nota4) / 4;
+
+            Console.WriteLine("A média final é: " + (media) );
         }
     }
 }

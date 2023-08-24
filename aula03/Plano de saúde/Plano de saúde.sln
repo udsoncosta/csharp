@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plano de saúde", "Plano de saúde.csproj", "{9908D3B8-FA28-4EB6-8EA1-08021CBA3872}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RH", "..\RH\RH.csproj", "{B13E4FA8-A850-4C69-977E-F0E9F74A1E03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notas", "..\Notas\Notas.csproj", "{7914AD7E-8662-47D2-AE66-E8FB58AAB948}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9908D3B8-FA28-4EB6-8EA1-08021CBA3872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9908D3B8-FA28-4EB6-8EA1-08021CBA3872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9908D3B8-FA28-4EB6-8EA1-08021CBA3872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9908D3B8-FA28-4EB6-8EA1-08021CBA3872}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B13E4FA8-A850-4C69-977E-F0E9F74A1E03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B13E4FA8-A850-4C69-977E-F0E9F74A1E03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B13E4FA8-A850-4C69-977E-F0E9F74A1E03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B13E4FA8-A850-4C69-977E-F0E9F74A1E03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7914AD7E-8662-47D2-AE66-E8FB58AAB948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7914AD7E-8662-47D2-AE66-E8FB58AAB948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7914AD7E-8662-47D2-AE66-E8FB58AAB948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7914AD7E-8662-47D2-AE66-E8FB58AAB948}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88A3FEE7-6AC7-4C44-A4A6-F95411B5137F}
+	EndGlobalSection
+EndGlobal

@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = calculadora
-build_property.ProjectDir = C:\Users\udson\OneDrive\Área de Trabalho\csharp\Aula02\Calculadora\
+build_property.RootNamespace = CALCULADORA
+build_property.ProjectDir = C:\Users\udson\OneDrive\Área de Trabalho\csharp\Aula02\CALCULADORA\
