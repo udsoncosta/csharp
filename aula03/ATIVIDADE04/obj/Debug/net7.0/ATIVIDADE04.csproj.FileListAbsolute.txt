@@ -1,0 +1,14 @@
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula03\ATIVIDADE04\obj\Debug\net7.0\ATIVIDADE04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula03\ATIVIDADE04\obj\Debug\net7.0\ATIVIDADE04.AssemblyInfoInputs.cache
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula03\ATIVIDADE04\obj\Debug\net7.0\ATIVIDADE04.AssemblyInfo.cs
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula03\ATIVIDADE04\obj\Debug\net7.0\ATIVIDADE04.csproj.CoreCompileInputs.cache
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula03\ATIVIDADE04\bin\Debug\net7.0\ATIVIDADE04.exe
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula03\ATIVIDADE04\bin\Debug\net7.0\ATIVIDADE04.deps.json
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula03\ATIVIDADE04\bin\Debug\net7.0\ATIVIDADE04.runtimeconfig.json
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula03\ATIVIDADE04\bin\Debug\net7.0\ATIVIDADE04.dll
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula03\ATIVIDADE04\bin\Debug\net7.0\ATIVIDADE04.pdb
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula03\ATIVIDADE04\obj\Debug\net7.0\ATIVIDADE04.dll
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula03\ATIVIDADE04\obj\Debug\net7.0\refint\ATIVIDADE04.dll
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula03\ATIVIDADE04\obj\Debug\net7.0\ATIVIDADE04.pdb
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula03\ATIVIDADE04\obj\Debug\net7.0\ATIVIDADE04.genruntimeconfig.cache
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula03\ATIVIDADE04\obj\Debug\net7.0\ref\ATIVIDADE04.dll
