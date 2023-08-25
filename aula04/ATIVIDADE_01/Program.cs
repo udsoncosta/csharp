@@ -19,7 +19,7 @@ namespace MultiplesOf3And5
             }
             else
             {
-                Console.WriteLine("Números múltiplos de 3 e 5 no intervalo:");
+                Console.WriteLine("Números múltiplos de 3 e 5 no intervalo: ");
                 for (int i = num1; i <= num2; i++)
                 {
                     if (i % 3 == 0 && i % 5 == 0)
