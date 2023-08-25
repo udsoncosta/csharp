@@ -15,7 +15,7 @@ namespace MultiplesOf3And5
 
             if (num1 >= num2)
             {
-                Console.WriteLine("Intervalo inválido.");
+                Console.WriteLine("Intervalo inválido. ");
             }
             else
             {
