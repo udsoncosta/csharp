@@ -1,0 +1,14 @@
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula05\EXERCICIO_02\obj\Debug\net7.0\EXERCICIO_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula05\EXERCICIO_02\obj\Debug\net7.0\EXERCICIO_02.AssemblyInfoInputs.cache
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula05\EXERCICIO_02\obj\Debug\net7.0\EXERCICIO_02.AssemblyInfo.cs
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula05\EXERCICIO_02\obj\Debug\net7.0\EXERCICIO_02.csproj.CoreCompileInputs.cache
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula05\EXERCICIO_02\bin\Debug\net7.0\EXERCICIO_02.exe
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula05\EXERCICIO_02\bin\Debug\net7.0\EXERCICIO_02.deps.json
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula05\EXERCICIO_02\bin\Debug\net7.0\EXERCICIO_02.runtimeconfig.json
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula05\EXERCICIO_02\bin\Debug\net7.0\EXERCICIO_02.dll
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula05\EXERCICIO_02\bin\Debug\net7.0\EXERCICIO_02.pdb
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula05\EXERCICIO_02\obj\Debug\net7.0\EXERCICIO_02.dll
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula05\EXERCICIO_02\obj\Debug\net7.0\refint\EXERCICIO_02.dll
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula05\EXERCICIO_02\obj\Debug\net7.0\EXERCICIO_02.pdb
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula05\EXERCICIO_02\obj\Debug\net7.0\EXERCICIO_02.genruntimeconfig.cache
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula05\EXERCICIO_02\obj\Debug\net7.0\ref\EXERCICIO_02.dll
