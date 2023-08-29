@@ -1,0 +1,4 @@
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula03\EXERCICIO-05\obj\Debug\net7.0\EXERCICIO-05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula03\EXERCICIO-05\obj\Debug\net7.0\EXERCICIO-05.AssemblyInfoInputs.cache
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula03\EXERCICIO-05\obj\Debug\net7.0\EXERCICIO-05.AssemblyInfo.cs
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula03\EXERCICIO-05\obj\Debug\net7.0\EXERCICIO-05.csproj.CoreCompileInputs.cache

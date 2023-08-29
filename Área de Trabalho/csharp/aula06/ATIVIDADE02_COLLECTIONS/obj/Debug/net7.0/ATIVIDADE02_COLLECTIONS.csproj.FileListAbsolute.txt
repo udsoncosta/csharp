@@ -1,0 +1,14 @@
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE02_COLLECTIONS\bin\Debug\net7.0\ATIVIDADE02_COLLECTIONS.exe
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE02_COLLECTIONS\bin\Debug\net7.0\ATIVIDADE02_COLLECTIONS.deps.json
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE02_COLLECTIONS\bin\Debug\net7.0\ATIVIDADE02_COLLECTIONS.runtimeconfig.json
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE02_COLLECTIONS\bin\Debug\net7.0\ATIVIDADE02_COLLECTIONS.dll
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE02_COLLECTIONS\bin\Debug\net7.0\ATIVIDADE02_COLLECTIONS.pdb
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE02_COLLECTIONS\obj\Debug\net7.0\ATIVIDADE02_COLLECTIONS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE02_COLLECTIONS\obj\Debug\net7.0\ATIVIDADE02_COLLECTIONS.AssemblyInfoInputs.cache
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE02_COLLECTIONS\obj\Debug\net7.0\ATIVIDADE02_COLLECTIONS.AssemblyInfo.cs
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE02_COLLECTIONS\obj\Debug\net7.0\ATIVIDADE02_COLLECTIONS.csproj.CoreCompileInputs.cache
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE02_COLLECTIONS\obj\Debug\net7.0\ATIVIDADE02_COLLECTIONS.dll
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE02_COLLECTIONS\obj\Debug\net7.0\refint\ATIVIDADE02_COLLECTIONS.dll
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE02_COLLECTIONS\obj\Debug\net7.0\ATIVIDADE02_COLLECTIONS.pdb
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE02_COLLECTIONS\obj\Debug\net7.0\ATIVIDADE02_COLLECTIONS.genruntimeconfig.cache
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE02_COLLECTIONS\obj\Debug\net7.0\ref\ATIVIDADE02_COLLECTIONS.dll
