@@ -1,0 +1,14 @@
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula04\TabuadaDoWhile\bin\Debug\net7.0\TabuadaDoWhile.exe
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula04\TabuadaDoWhile\bin\Debug\net7.0\TabuadaDoWhile.deps.json
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula04\TabuadaDoWhile\bin\Debug\net7.0\TabuadaDoWhile.runtimeconfig.json
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula04\TabuadaDoWhile\bin\Debug\net7.0\TabuadaDoWhile.dll
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula04\TabuadaDoWhile\bin\Debug\net7.0\TabuadaDoWhile.pdb
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula04\TabuadaDoWhile\obj\Debug\net7.0\TabuadaDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula04\TabuadaDoWhile\obj\Debug\net7.0\TabuadaDoWhile.AssemblyInfoInputs.cache
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula04\TabuadaDoWhile\obj\Debug\net7.0\TabuadaDoWhile.AssemblyInfo.cs
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula04\TabuadaDoWhile\obj\Debug\net7.0\TabuadaDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula04\TabuadaDoWhile\obj\Debug\net7.0\TabuadaDoWhile.dll
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula04\TabuadaDoWhile\obj\Debug\net7.0\refint\TabuadaDoWhile.dll
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula04\TabuadaDoWhile\obj\Debug\net7.0\TabuadaDoWhile.pdb
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula04\TabuadaDoWhile\obj\Debug\net7.0\TabuadaDoWhile.genruntimeconfig.cache
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula04\TabuadaDoWhile\obj\Debug\net7.0\ref\TabuadaDoWhile.dll
