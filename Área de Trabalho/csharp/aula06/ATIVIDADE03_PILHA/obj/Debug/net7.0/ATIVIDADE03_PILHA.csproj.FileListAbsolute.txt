@@ -1,0 +1,14 @@
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE03_PILHA\bin\Debug\net7.0\ATIVIDADE03_PILHA.exe
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE03_PILHA\bin\Debug\net7.0\ATIVIDADE03_PILHA.deps.json
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE03_PILHA\bin\Debug\net7.0\ATIVIDADE03_PILHA.runtimeconfig.json
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE03_PILHA\bin\Debug\net7.0\ATIVIDADE03_PILHA.dll
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE03_PILHA\bin\Debug\net7.0\ATIVIDADE03_PILHA.pdb
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE03_PILHA\obj\Debug\net7.0\ATIVIDADE03_PILHA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE03_PILHA\obj\Debug\net7.0\ATIVIDADE03_PILHA.AssemblyInfoInputs.cache
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE03_PILHA\obj\Debug\net7.0\ATIVIDADE03_PILHA.AssemblyInfo.cs
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE03_PILHA\obj\Debug\net7.0\ATIVIDADE03_PILHA.csproj.CoreCompileInputs.cache
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE03_PILHA\obj\Debug\net7.0\ATIVIDADE03_PILHA.dll
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE03_PILHA\obj\Debug\net7.0\refint\ATIVIDADE03_PILHA.dll
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE03_PILHA\obj\Debug\net7.0\ATIVIDADE03_PILHA.pdb
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE03_PILHA\obj\Debug\net7.0\ATIVIDADE03_PILHA.genruntimeconfig.cache
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE03_PILHA\obj\Debug\net7.0\ref\ATIVIDADE03_PILHA.dll

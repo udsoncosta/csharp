@@ -1,0 +1,14 @@
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE02_NUMEROSINTEIROS\bin\Debug\net7.0\ATIVIDADE02_NUMEROSINTEIROS.exe
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE02_NUMEROSINTEIROS\bin\Debug\net7.0\ATIVIDADE02_NUMEROSINTEIROS.deps.json
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE02_NUMEROSINTEIROS\bin\Debug\net7.0\ATIVIDADE02_NUMEROSINTEIROS.runtimeconfig.json
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE02_NUMEROSINTEIROS\bin\Debug\net7.0\ATIVIDADE02_NUMEROSINTEIROS.dll
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE02_NUMEROSINTEIROS\bin\Debug\net7.0\ATIVIDADE02_NUMEROSINTEIROS.pdb
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE02_NUMEROSINTEIROS\obj\Debug\net7.0\ATIVIDADE02_NUMEROSINTEIROS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE02_NUMEROSINTEIROS\obj\Debug\net7.0\ATIVIDADE02_NUMEROSINTEIROS.AssemblyInfoInputs.cache
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE02_NUMEROSINTEIROS\obj\Debug\net7.0\ATIVIDADE02_NUMEROSINTEIROS.AssemblyInfo.cs
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE02_NUMEROSINTEIROS\obj\Debug\net7.0\ATIVIDADE02_NUMEROSINTEIROS.csproj.CoreCompileInputs.cache
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE02_NUMEROSINTEIROS\obj\Debug\net7.0\ATIVIDADE02_NUMEROSINTEIROS.dll
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE02_NUMEROSINTEIROS\obj\Debug\net7.0\refint\ATIVIDADE02_NUMEROSINTEIROS.dll
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE02_NUMEROSINTEIROS\obj\Debug\net7.0\ATIVIDADE02_NUMEROSINTEIROS.pdb
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE02_NUMEROSINTEIROS\obj\Debug\net7.0\ATIVIDADE02_NUMEROSINTEIROS.genruntimeconfig.cache
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE02_NUMEROSINTEIROS\obj\Debug\net7.0\ref\ATIVIDADE02_NUMEROSINTEIROS.dll
