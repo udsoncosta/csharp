@@ -1,0 +1,14 @@
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE02_FILA\bin\Debug\net7.0\ATIVIDADE02_FILA.exe
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE02_FILA\bin\Debug\net7.0\ATIVIDADE02_FILA.deps.json
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE02_FILA\bin\Debug\net7.0\ATIVIDADE02_FILA.runtimeconfig.json
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE02_FILA\bin\Debug\net7.0\ATIVIDADE02_FILA.dll
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE02_FILA\bin\Debug\net7.0\ATIVIDADE02_FILA.pdb
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE02_FILA\obj\Debug\net7.0\ATIVIDADE02_FILA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE02_FILA\obj\Debug\net7.0\ATIVIDADE02_FILA.AssemblyInfoInputs.cache
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE02_FILA\obj\Debug\net7.0\ATIVIDADE02_FILA.AssemblyInfo.cs
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE02_FILA\obj\Debug\net7.0\ATIVIDADE02_FILA.csproj.CoreCompileInputs.cache
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE02_FILA\obj\Debug\net7.0\ATIVIDADE02_FILA.dll
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE02_FILA\obj\Debug\net7.0\refint\ATIVIDADE02_FILA.dll
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE02_FILA\obj\Debug\net7.0\ATIVIDADE02_FILA.pdb
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE02_FILA\obj\Debug\net7.0\ATIVIDADE02_FILA.genruntimeconfig.cache
+C:\Users\udson\OneDrive\Área de Trabalho\csharp\aula06\ATIVIDADE02_FILA\obj\Debug\net7.0\ref\ATIVIDADE02_FILA.dll
