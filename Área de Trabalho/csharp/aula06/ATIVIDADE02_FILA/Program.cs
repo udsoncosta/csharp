@@ -17,7 +17,7 @@
                 Console.WriteLine("*  3 - Chamar cliente da fila                  *");
                 Console.WriteLine("*  0 - Sair                                    *");
                 Console.WriteLine("************************************************");
-                Console.WriteLine("Entre com a opção desejada: ");
+                Console.WriteLine("Entre com a opção desejada:");
                 opcao = Convert.ToInt32(Console.ReadLine());
                 Console.Clear();
 
