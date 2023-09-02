@@ -4,9 +4,8 @@ using System.Linq;
 using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
-using static System.Runtime.InteropServices.JavaScript.JSType;
 
-namespace ATIVIDADE01.Cliente
+namespace ATIVIDADE01.model
 {
     public class Cliente
     {
@@ -14,15 +13,13 @@ namespace ATIVIDADE01.Cliente
         private int idade;
         private string endereco;
         private int documentoRG;
-        private string estadoCivil = string.Empty;
 
-        public Cliente(string nome, int idade, string endereco, int documentoRG, string estadoCivil)
+        public Cliente(string nome, int idade, string endereco, int documentoRG)
         {
             this.nome = nome;
             this.idade = idade;
             this.endereco = endereco;
             this.documentoRG = documentoRG;
-            this.estadoCivil = estadoCivil;
         }
 
         /*Métodos Get e Set*/
@@ -54,7 +51,7 @@ namespace ATIVIDADE01.Cliente
 
         public void SetEndereco(string endereco)
         {
-           this.endereco = endereco;
+            this.endereco = endereco;
         }
 
         public int GetDocumentoRG()
@@ -67,30 +64,20 @@ namespace ATIVIDADE01.Cliente
             this.documentoRG = documentoRG;
         }
 
-        public string GetEstadoCivil()
-        {
-            return estadoCivil;
-        }
-
-        public void SetEstadoCivil(string estadoCivil)
-        {
-            this.estadoCivil = estadoCivil;
-        }
-        public void Visualizar()
+        public virtual void Visualizar()
         {
 
             Console.WriteLine("**********************************************");
             Console.WriteLine("Dados da conta");
             Console.WriteLine("**********************************************");
             Console.WriteLine($"Nome do cliente: {this.nome}");
-            Console.WriteLine($"Idade do cliente: {this.idade} anos");
+            Console.WriteLine($"Ano de nascimento: {this.idade} anos");
             Console.WriteLine($"Endereço: {this.endereco}");
-            Console.WriteLine($"Documento de identidade: {this.documentoRG}");
-            Console.WriteLine($"Estado civil: {this.estadoCivil}");
+            Console.WriteLine($"Documento (CPF/CNPJ: {this.documentoRG}");
         }
-        }
-
     }
+
+}
 
 
 
