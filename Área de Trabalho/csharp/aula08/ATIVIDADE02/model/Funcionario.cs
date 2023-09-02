@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ATIVIDADE02
+namespace ATIVIDADE02.model
 {
-    public class funcionario
+    public class Funcionario
     {
         private string nome = string.Empty;
         private int matricula;
@@ -14,7 +14,7 @@ namespace ATIVIDADE02
         private int admissao;
         private string cargo = string.Empty;
 
-        public funcionario(string nome, int matricula, int idade, int admissao, string cargo)
+        public Funcionario(string nome, int matricula, int idade, int admissao, string cargo)
         {
             this.nome = nome;
             this.matricula = matricula;
@@ -47,7 +47,7 @@ namespace ATIVIDADE02
         {
             this.idade = idade;
         }
-        public int GetAdmissa0()
+        public int GetAdmissao()
         {
             return admissao;
         }
@@ -59,26 +59,24 @@ namespace ATIVIDADE02
         {
             return cargo;
         }
-        public void SetProfissao(string cargo)
+        public void SetCargo(string cargo)
         {
             this.cargo = cargo;
         }
-        public void Visualizar()
-         
+        public virtual void Visualizar()
+
         {
             Console.WriteLine("**********************************************************");
-            Console.WriteLine("                                                          ");
             Console.WriteLine($"Nome: {this.nome}");
             Console.WriteLine($"Número de matrícula: {this.matricula}");
             Console.WriteLine($"Idade: {this.idade} anos");
             Console.WriteLine($"Ano de admissão: {this.admissao}");
             Console.WriteLine($"Cargo: {this.cargo}");
-            Console.WriteLine("                                                          ");
-            Console.WriteLine("**********************************************************");
+
 
 
         }
-    
+
 
     }
 }
