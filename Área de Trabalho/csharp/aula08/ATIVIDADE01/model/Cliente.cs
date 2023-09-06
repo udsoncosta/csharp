@@ -73,7 +73,7 @@ namespace ATIVIDADE01.model
             Console.WriteLine($"Nome do cliente: {this.nome}");
             Console.WriteLine($"Ano de nascimento: {this.idade} anos");
             Console.WriteLine($"Endereço: {this.endereco}");
-            Console.WriteLine($"Documento (CPF/CNPJ: {this.documentoRG}");
+            Console.WriteLine($"Documento (CPF/CNPJ): {this.documentoRG}");
         }
     }
 
