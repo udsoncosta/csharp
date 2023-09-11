@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\udson\\OneDrive\\Área de Trabalho\\ProjetoFinal_Bloco01\\Projeto_Final_Bloco_01\\Projeto_Final_Bloco_01.csproj",
-      "projectName": "Projeto_Final_Bloco_01",
-      "projectPath": "C:\\Users\\udson\\OneDrive\\Área de Trabalho\\ProjetoFinal_Bloco01\\Projeto_Final_Bloco_01\\Projeto_Final_Bloco_01.csproj",
+      "projectUniqueName": "C:\\Users\\udson\\OneDrive\\Área de Trabalho\\ProjetoFinal_Bloco01\\projeto_final_bloco_01\\projeto_final_bloco_01.csproj",
+      "projectName": "projeto_final_bloco_01",
+      "projectPath": "C:\\Users\\udson\\OneDrive\\Área de Trabalho\\ProjetoFinal_Bloco01\\projeto_final_bloco_01\\projeto_final_bloco_01.csproj",
       "packagesPath": "C:\\Users\\udson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\udson\\OneDrive\\Área de Trabalho\\ProjetoFinal_Bloco01\\Projeto_Final_Bloco_01\\obj\\",
+      "outputPath": "C:\\Users\\udson\\OneDrive\\Área de Trabalho\\ProjetoFinal_Bloco01\\projeto_final_bloco_01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\udson\\AppData\\Roaming\\NuGet\\NuGet.Config",
